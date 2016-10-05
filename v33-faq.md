@@ -10,9 +10,9 @@ image_url: https://github.com/walkingdev/umap/blob/master/media/umap.png?raw=tru
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir un sujet, Elm, en même temps que des lieux.
-Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
-On profitera du trajet pour débriefer sur la session que l'on vient de faire.
+On va explorer *Umap* ensemble, et découvrir des lieux insolites.
+En binôme ou en groupe on va découvrir en mettant les mains dans la pâte. Des ateliers, des présentations, des questionnements et plein d’autres expérimentations en sautillant d’un endroit à  un autre.
+On profitera du trajet pour échanger sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
