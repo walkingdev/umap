@@ -1,7 +1,7 @@
 ---
 title: Session Umap V-33
 description: Une petite exploration d'Umap sans compas ni boussole du côté de Bordeaux.
-image_url: https://github.com/walkingdev/umpa/blob/master/media/umap.png?raw=true
+image_url: https://github.com/walkingdev/umap/blob/master/media/umap.png?raw=true
 ---
 
 # Session Umap - V-33

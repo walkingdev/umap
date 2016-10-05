@@ -1,7 +1,7 @@
 ---
 title: Inscriptions Umap V-33
 description: Liste pour s'inscrire à la session Umap V-33
-image_url: https://github.com/walkingdev/elm/blob/master/media/umap.png?raw=true
+image_url: https://github.com/walkingdev/umap/blob/master/media/umap.png?raw=true
 ---
 
 # Inscriptions
