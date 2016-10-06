@@ -7,7 +7,7 @@ image_url: https://github.com/walkingdev/umap/blob/master/media/umap.png?raw=tru
 # Inscriptions
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
-Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/master/v33.md)  
+Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/umap/blob/master/v33-faq.md)  
 
 * *nom - prénom - mail - tél - twitter*
 * Langlois - Stéphane - stéphane@scopyleft.fr - 0000000000 - @langlois_s
