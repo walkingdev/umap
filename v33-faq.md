@@ -16,7 +16,7 @@ On profitera du trajet pour échanger sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 7 décembre à 9h au vivre de l'arrêt bassin à flot à Bordeaux.
+La marche commencera le 7 mars à 9h au vivre de l'arrêt bassin à flot à Bordeaux.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
