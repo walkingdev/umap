@@ -1,10 +1,12 @@
 ---
 title: Inscriptions Umap V-33
 description: Liste pour s'inscrire à la session Umap V-33
-image_url: https://github.com/walkingdev/umap/blob/master/media/umap.png?raw=true
+image_url: https://github.com/walkingdev/umap/blob/master/media/umap.jpg?raw=true
 ---
 
 # Inscriptions
+
+[Inscription via Eventbrite](https://www.eventbrite.fr/e/billets-umap-sans-compas-ni-boussole-32505746563)
 
 Pour t'inscrire, ajoute tes coordonnées en bas de la liste.  
 Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/umap/blob/master/v33-faq.md)  

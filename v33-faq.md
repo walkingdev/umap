@@ -1,7 +1,7 @@
 ---
 title: Session Umap V-33
 description: Une petite exploration d'Umap sans compas ni boussole du côté de Bordeaux.
-image_url: https://github.com/walkingdev/umap/blob/master/media/umap.png?raw=true
+image_url: https://github.com/walkingdev/umap/blob/master/media/umap.jpg?raw=true
 ---
 
 # Session Umap - V-33
@@ -11,12 +11,13 @@ image_url: https://github.com/walkingdev/umap/blob/master/media/umap.png?raw=tru
 ### On va faire quoi ?
 
 On va explorer *Umap* ensemble, et découvrir des lieux insolites.
-En binôme ou en groupe on va découvrir en mettant les mains dans la pâte. Des ateliers, des présentations, des questionnements et plein d’autres expérimentations en sautillant d’un endroit à  un autre.
+En binôme ou en groupe on va explorer OSM, triturer Umap en mettant les mains dans la pâte. Des ateliers, des présentations, des questionnements et plein d’autres expérimentations en sautillant d’un endroit à  un autre.
 On profitera du trajet pour échanger sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 7 mars à 9h aux vivre de l'art à proximité de l'arrêt bassin à flot à Bordeaux.
+La marche commencera le 7 mars à 9h [aux vivre de l'art](http://lesvivresdelart.org/association-le-projet/rehabilitation-mecenat) - [4 rue Achard,
+Place Victor Raulin](http://www.openstreetmap.org/search?query=4%20rue%20Achard%20bordeaux#map=19/44.86590/-0.54853) à proximité de l'arrêt bassin à flot à Bordeaux.
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
@@ -35,7 +36,13 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 
 ### Je m'inscris où ?
 
-Les inscriptions sont là : [v33-inscriptions.md](https://github.com/walkingdev/umap/edit/master/v33-inscriptions.md)
+Les inscriptions sont là : [v33-inscriptions.md](https://www.eventbrite.fr/e/billets-umap-sans-compas-ni-boussole-32505746563)
+
+### Ça coûte combien cette petite escapade ?
+
+59 € pour les particuliers, et 89 € HT si c’est un financement privé/public.  
+
+Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 ### Pourquoi V-33 ?
 
